@@ -46,9 +46,7 @@ src
      └── resources
           └── application.properties
           ⚙️ Setup Instructions
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
 2️⃣ Configure MySQL Database
 
 Create a database in MySQL:
@@ -130,5 +128,4 @@ Spring Boot + MySQL Tutorials
 
 👨‍💻 Author
 Vishal Vishwakarma
-Java Full Stack Internship – Task 2
-🌐 www.maincrafts.com
+
